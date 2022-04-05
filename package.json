@@ -1,0 +1,14 @@
+{
+  "name": "toryx",
+  "version": "1.0.0",
+  "description": "Toryx bot is a general use discord bot made as a project to get better at javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skelitin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
